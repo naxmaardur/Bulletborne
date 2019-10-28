@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - enemy
+  - Hammer
+  - HammerTile
+  - EnemyMaster
+  - Enemies
+  - axe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - Player
+  - post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground2
+    uniqueID: 1147120723
+    locked: 0
+  - name: groundBlood
+    uniqueID: 1142605287
+    locked: 0
+  - name: walls
+    uniqueID: 2047107319
+    locked: 0
+  - name: wallBlood
+    uniqueID: 490870379
+    locked: 0
+  - name: enemy
+    uniqueID: 702176441
+    locked: 0
+  - name: player
+    uniqueID: 1206097109
+    locked: 0
+  - name: Forground
+    uniqueID: 3379625763
+    locked: 0
+  - name: Forground2
+    uniqueID: 3849434371
+    locked: 0

@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 9a9eeafdde472fd4ab98358e561e19f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: death_cult_0
+    21300002: death_cult_1
+    21300004: death_cult_2
+    21300006: death_cult_3
+    21300008: death_cult_4
+    21300010: death_cult_5
+    21300012: death_cult_6
+    21300014: death_cult_7
+    21300016: death_cult_8
+    21300018: death_cult_9
+    21300020: death_cult_10
+    21300022: death_cult_11
+    21300024: death_cult_12
+    21300026: death_cult_13
+    21300028: death_cult_14
+    21300030: death_cult_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death_cult_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48199654, y: 0.38676375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98269dde65ebc8f44bbee7570fd101c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 284
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.43645835, y: 0.38800812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a6f1701647a143adc75e44cd1bf28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 285
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.45869786, y: 0.38800812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aa2425dc5ec9a458dbf130dd8bba49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 285
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.457639, y: 0.38800812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c6027e14d357469df5373d6170849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 284
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5211808, y: 0.38551942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4241f1db9159e12418c27d01cdca3114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 283
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5232382, y: 0.38532257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478b356c6b235d94b9018f2790a2d967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 271
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.40746942, y: 0.3029815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409697651adeb914f9e84aa5e4d9bc5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 227
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.38600755, y: 0.32303125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb1ff38029415469bb319346ea11ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 230
+        width: 59
+        height: 51
+      alignment: 9
+      pivot: {x: 0.28010184, y: 0.3429404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57ed6052e20c34e9c8bc1410e80dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 59
+        height: 51
+      alignment: 9
+      pivot: {x: 0.28022197, y: 0.34232405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648175decb2598443ba9acd9c1b4282a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 231
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0.40212664, y: 0.3300752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86572a8b86913a40830b39b9f69dd3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 235
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5176163, y: 0.3884243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351e3fa6cf9857d418e1ac33615c5700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 226
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6077494, y: 0.43593165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabe03f978b1d674594ab7f78c50753b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 226
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5861991, y: 0.44758028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed195509a089de49958ca586d7a246c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 44
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44353417, y: 0.4183688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a1cc0f019be44e9493392e85b067a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death_cult_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 101
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4170886, y: 0.37924325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6493571836ba5c4598064e853d8767a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b25e86ef1232f242893475f7939483a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
